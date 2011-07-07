@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SimpleSafe!</string>
+    <string name="app_name">SimpleSafe</string>
+    <string name="button1name">md5</string>
+    <string name="button2name">sha1</string>
+    <string name="ssa_welcome">Welcome to Simple Safe App</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button1" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">10pt</item>
+        <item name="android:padding">30dip</item>
+        <item name="android:background">#BC4949</item>
+    </style>
+      <style name="button2" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">10pt</item>
+        <item name="android:padding">30dip</item>
+        <item name="android:background">#51BC49</item>
+    </style>
+</resources>
