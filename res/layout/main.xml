@@ -40,7 +40,7 @@
         android:layout_weight="1" 
         android:textSize="10pt"></TextView>
     </LinearLayout>
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
               xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
               android:orientation="vertical"
               android:layout_width="fill_parent"
@@ -48,12 +48,12 @@
   <com.google.ads.AdView android:id="@+id/adView"
                          android:layout_width="wrap_content"
                          android:layout_height="wrap_content"
-                         ads:adUnitId="MY_AD_UNIT_ID"
+                         ads:adUnitId="xxx"
                          ads:adSize="BANNER"
                          ads:loadAdOnCreate="true"/>
 </LinearLayout>
     <LinearLayout android:id="@+id/linearLayout4" android:layout_height="wrap_content" android:layout_width="fill_parent">
-        <TextView android:id="@+id/sitelink" android:layout_width="fill_parent" android:text="TextView" android:gravity="right" android:layout_height="wrap_content"></TextView>
+        <TextView android:id="@+id/sitelink" android:layout_width="fill_parent" android:text="TextView" android:gravity="right" android:layout_height="wrap_content" android:autoLink="all"></TextView>
     </LinearLayout>
  
     
