@@ -1,3 +1,5 @@
+NOTE: This is obviously deprecated and unsafe to use
+
 This is the official SimpleSafe Application Repository with the official, fully released code. 
 In a previous repository, I mentioned the change of salt. 
 
